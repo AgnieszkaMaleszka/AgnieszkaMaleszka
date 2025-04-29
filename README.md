@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hej, jestem Agnieszka!
 
-<!--
-**AgnieszkaMaleszka/AgnieszkaMaleszka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 Programuję w: `Python`, `JavaScript`, `React`
+🎯 Moje cele na 2025: 
 
-Here are some ideas to get you started:
+## 📈 Statystyki GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Moje statystyki](https://github-readme-stats.vercel.app/api?username=agnieszkaMaleszka&show_icons=true&theme=radical)
+
+## 🧰 Narzędzia i technologie
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
+
+## 🔗 Znajdź mnie
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/twojprofil)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-orange?style=for-the-badge)](https://agnieszka-maleszka.onrender.com/)
